@@ -13,13 +13,13 @@ Berbagai wilayah mengalami kenaikan maupun penurunan gaji dari tahun ke tahun. K
 Lantas, bagaimana departemen HR mengambil keputusan di tengah kondisi pasar yang volatil ini? Mereka mengandalkan HR Analytics untuk memahami situasi saat ini dan mengembangkan pendekatan modern yang baru. Untuk memenuhi kebutuhan ini, Anda diminta di perusahaan Anda untuk membangun sebuah dashboard di Power BI dengan mempertimbangkan tantangan-tantangan yang dihadapi tim HR tersebut, serta menyediakan cara yang efektif untuk menjawab pertanyaan-pertanyaan operasional harian mereka.
 
 **Berdasarkan Dashboard, dapat ditarik beberapa insight sebagai berikut:**
-- Retensi Sangat Stabil
+- Retensi Sangat Stabil:
 	Attrition Rate berada di angka sangat rendah (0,50%) dengan net growth positif +123 karyawan (191 New Hires vs 68 Separations).
-- Fokus Rekrutmen
+- Fokus Rekrutmen:
 	Penambahan karyawan baru didominasi kelompok usia 30–49 tahun (157 orang) dan didorong oleh penyerapan tenaga Part-Time di wilayah - Midwest (55) dan North (44).
-- Area Rawan Turnover
+- Area Rawan Turnover:
 	Wilayah North (20 orang) dan West (17 orang) menjadi penyumbang Separations tertinggi, mayoritas pada segmen usia produktif (30–49 tahun).
-- Kesenjangan Masa Kerja Gender
+- Kesenjangan Masa Kerja Gender:
 	Rata-rata masa kerja (Avg Tenure) karyawan wanita konsisten lebih singkat dibanding pria di semua wilayah, dengan selisih terbesar di wilayah South (56 vs 84 bulan).
 
 Link Dataset:
