@@ -5,6 +5,7 @@ Saat ini baru berisikan 1 proyek dashboard dengan menggunakan data Dummy yang be
 Merupakan dashboard interaktif Power BI yang datanya connect dari Excel.
 
 **Pernyataan Masalah (Problem Statement):**
+
 Fluktuasi pasar dan perubahan teknologi yang begitu cepat telah memengaruhi pasar global. Banyak laporan publikasi menunjukkan bahwa sekitar separuh dari total karyawan memiliki keinginan untuk berpindah pekerjaan. Meskipun beberapa peneliti pasar menyebutkan bahwa jam kerja fleksibel dan jaminan keamanan kerja (job security) adalah faktor utama mereka, sebagian lainnya mengakui bahwa gaji yang lebih tinggi adalah tujuan utamanya.
 
 Berbagai wilayah mengalami kenaikan maupun penurunan gaji dari tahun ke tahun. Kenaikan gaji dilakukan untuk mempertahankan karyawan profesional tingkat atas (top-level), sedangkan pemotongan gaji terjadi akibat fluktuasi pasar dan disesuaikan kembali setelah kondisi pasar membaik. Praktisi HR di seluruh dunia terus merekrut karyawan baru, berupaya mempertahankan talenta, dan memahami kebutuhan dari karyawan yang mengalami separation (karyawan yang keluar/berhenti dari perusahaan).
@@ -21,5 +22,5 @@ Lantas, bagaimana departemen HR mengambil keputusan di tengah kondisi pasar yang
 - Kesenjangan Masa Kerja Gender
 	Rata-rata masa kerja (Avg Tenure) karyawan wanita konsisten lebih singkat dibanding pria di semua wilayah, dengan selisih terbesar di wilayah South (56 vs 84 bulan).
 
-Link:
+Link Dataset:
 https://www.kaggle.com/datasets/ramyelbouhy/hr-analysis-power-bi-dashboard
